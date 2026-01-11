@@ -4,7 +4,7 @@
 
 - Landing Page feita por Larissa Kich no Youtube do canal Larissa Kich para fins de estudo
 
-- Tematica StarBucks, venda de sorvetes e promoções
+- Temática StarBucks, venda de sorvetes e promoções
 
 - As tecnologias utilizadas
 
