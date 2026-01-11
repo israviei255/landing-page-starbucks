@@ -1,6 +1,6 @@
-#Landing Page StarBucks
+# Landing Page StarBucks
 
-#Visão Geral
+# Visão Geral
 
 - Landing Page feita por Larissa Kich no Youtube do canal Larissa Kich para fins de estudo
 
@@ -16,7 +16,7 @@
 
 - Foi utilizado o site https://cdnjs.com/libraries/font-awesome para inserir ícones
 
-#Arquitetura
+# Arquitetura
 
 - Feita usando modelo Mobile First e Responsivo 
 
@@ -32,7 +32,7 @@
 
 - Rodapé com informações de autoria
 
-#Considerações finais
+# Considerações finais
 
 - Landing page com boa responsividade para mobile e desktop possuindo um pequeno erro de fundo para telas um pouco maiores que 768px
 
